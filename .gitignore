@@ -53,8 +53,8 @@ Thumbs.db
 DeployDistribution/
 LocalDistribution/
 Extras/
-.env
-.nsdeploy
-payload.json
-config.json
 tmp/
+*/gulp/config/config.json
+payload.json
+.nsdeploy
+.env
