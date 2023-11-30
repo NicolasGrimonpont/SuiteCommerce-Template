@@ -24,6 +24,10 @@ For more information about this commands, please read the online documentation:
 - gulp theme:deploy --source assets
 - gulp theme:deploy --source skins
 
+- gulp reactivate
+- gulp reactivate --async
+- gulp reactivate --update
+
 - gulp clear
 
 ### Extension Developer Gulp Commands
@@ -47,5 +51,9 @@ For more information about this commands, please read the online documentation:
 - gulp extension:deploy --source sass
 - gulp extension:deploy --source assets
 - gulp extension:deploy --source skins
+
+- gulp reactivate
+- gulp reactivate --async
+- gulp reactivate --update
 
 - gulp clear
