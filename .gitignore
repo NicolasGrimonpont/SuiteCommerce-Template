@@ -56,4 +56,5 @@ Extras/
 .env
 .nsdeploy
 payload.json
+config.json
 tmp/
