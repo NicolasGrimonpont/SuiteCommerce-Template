@@ -68,3 +68,17 @@ A template for getting started on a SuiteCommerce project
     gulp theme:deploy --reactivate
     gulp extension:deploy --reactivate
     ```
+
+## Addtionals tools
+
+To work in the same way with each team member, if you use vscode, please install this extension.
+This extension will take the settings in the .editorconfig file and use them, no matter what settings you have in your editor.
+
+If you're using webstorm, phpstorm, etc., this file will be taken into account by the editor by default.
+
+    Name: EditorConfig for VS Code
+    Id: EditorConfig.EditorConfig
+    Description: EditorConfig Support for Visual Studio Code
+    Version: 0.16.4
+    Publisher: EditorConfig
+    VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
