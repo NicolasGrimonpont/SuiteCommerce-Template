@@ -56,3 +56,6 @@ tmp/
 payload.json
 .nsdeploy
 .env
+
+# Sass documentation
+sassdoc/
