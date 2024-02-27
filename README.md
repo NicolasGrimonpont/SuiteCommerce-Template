@@ -2,9 +2,10 @@
 
 - [Environment installation](#environment-installation)
 - [Start working on a project](#start-working-on-a-project)
-- [Addtionals tools](#addtionals-tools)
+- [EditorConfig](#editorconfig)
 - [Create an integration record.](#create-an-integration-record)
 - [Generate SASS helpers documentation](#generate-sass-helpers-documentation)
+- [Manage Tokens](#manage-tokens)
 - [Node versions for SuiteCommerce](#node-versions-for-suitecommerce)
 - [Gulp commands](#gulp-commands)
 - [MacOS command lines](#macos-command-lines)
@@ -77,7 +78,7 @@
     gulp extension:deploy --reactivate
     ```
 
-## Addtionals tools
+## EditorConfig
 
 To work in the same way with each team member, if you use vscode, please install this extension.
 This extension will take the settings in the .editorconfig file and use them, no matter what settings you have in your editor.
@@ -126,6 +127,26 @@ Inside your DevTools folder, execute this command
 ```bash
 . '/Users/home/Documents/Bitbucket/axessorize-sca-theme/Scripts/generate_sassdoc.sh'
 ```
+
+## Manage Tokens
+
+The tokens are store in your computer root user like hidden file (ex: "/Users/home/.nstba") where "home" will be your username of the computer.
+
+To show all the netsuite tokens in your computer:
+
+    sudo cat /Users/home/.nstba
+
+To remove all the tokens:
+
+    sudo rm /Users/home/.nstba
+
+To open this file on your editor (GUI):
+
+    sudo open /Users/home/.nstba
+
+To open this file on your editor (Command lines):
+
+    sudo nano /Users/home/.nstba
 
 ## Node versions for SuiteCommerce
 
