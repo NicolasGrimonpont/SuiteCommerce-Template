@@ -130,7 +130,7 @@ Inside your DevTools folder, execute this command
 
 ## Manage Tokens
 
-The tokens are store in your computer root user like hidden file (ex: "/Users/home/.nstba") where "home" will be your username of the computer.
+The tokens are store in your computer user like hidden file (ex: "/Users/home/.nstba") where "home" will be your username of the computer.
 
 To show all the netsuite tokens in your computer:
 
