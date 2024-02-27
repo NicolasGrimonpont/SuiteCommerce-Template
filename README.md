@@ -1,5 +1,4 @@
 # SuiteCommerce Template
-A template for getting started on a SuiteCommerce project
 
 - [Environment installation](#environment-installation)
 - [Start working on a project](#start-working-on-a-project)
