@@ -107,9 +107,6 @@ Go to Setup > Integration > Integration Management > Manage Integrations > New
 
 ## Generate SASS helpers documentation
 
-More information:
-[Netsuite Help Center](https://5346778.app.netsuite.com/app/help/helpcenter.nl?fid=bridgehead_4249032125.html)
-
 This feature currently don't work (work in progress). 
 
 ### Install SassDoc on your project
